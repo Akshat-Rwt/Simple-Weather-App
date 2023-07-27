@@ -1,5 +1,5 @@
 # Simple-Weather-App
-A weather app that utilizes an API to fetch weather data provides users with up-to-date weather information for their desired locations. The app uses an Application Programming Interface (API) to connect to a remote weather service, retrieving real-time or forecasted weather data.
+A weather website that utilizes an API to fetch weather data provides users with up-to-date weather information for their desired locations. The app uses an Application Programming Interface (API) to connect to a remote weather service, retrieving real-time or forecasted weather data.
 
 1. User Interface: The weather app features a user-friendly interface, allowing users to input their desired location.
 
